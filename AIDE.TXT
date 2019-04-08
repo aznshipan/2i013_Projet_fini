@@ -7,7 +7,7 @@ Bonjour,
  java Sprite/SpriteDemo
 
 Une carte est alors généré selon une zone du bruit de Perlin. Si vous voulez généré une carte ALEATOIREMENT selon le bruit de Perlin,
-il suffit de de commenter les lignes :
+il suffit de commenter les lignes :
 33 et 34 de src/Monde/Terrain.java
 
 puis saisir à nouveau les commandes de compilation et d'exécution ci-dessus.
