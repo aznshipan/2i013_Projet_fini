@@ -19,7 +19,7 @@ Une carte est alors généré selon une zone du bruit de Perlin. Si vous voulez 
 il suffit de commenter les lignes :
 33 et 34 de src/Monde/Terrain.java
 
-puis saisir à nouveau les commandes de compilation et d'exécution ci-dessus.
+puis saisir à nouveau les commandes de compilation et d'exécution ci-dessus.(votre répertoire courant doit être src/)
 
  
 
