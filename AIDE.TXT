@@ -1,10 +1,19 @@
 Bonjour,
  Pour compiler et exécuter le programme dont vous venez de télécharger (avec git clone...), 
- tapez dans votre terminal les commandes suivantes:
+si vous n'êtes pas encore dans le répertoire 2i013_Projet_fini, tapez dans votre terminal les commandes suivantes:
  
  cd 2i013_Projet_fini/src/
  javac Sprite/SpriteDemo.java 
  java Sprite/SpriteDemo
+ 
+ 
+ 
+Si vous êtes déja dans le répertoire 2i013_Projet_fini, tapez dans votre terminal les commandes suivantes :
+ 
+ cd src/
+ javac Sprite/SpriteDemo.java 
+ java Sprite/SpriteDemo
+ 
 
 Une carte est alors généré selon une zone du bruit de Perlin. Si vous voulez généré une carte ALEATOIREMENT selon le bruit de Perlin,
 il suffit de commenter les lignes :
