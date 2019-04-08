@@ -21,7 +21,16 @@ il suffit de commenter les lignes :
 
 puis saisir à nouveau les commandes de compilation et d'exécution ci-dessus.(votre répertoire courant doit être src/)
 
- 
+Une fois le programme lancé, pour les interactions entre l'environnement généré et l'utilisateur : 
+
+Touche D pour déplacer la caméra vers la droite*.
+Touche Q pour déplacer la caméra vers la gauche*.
+Touche Z pour déplacer la caméra vers le haut*.
+Touche S pour déplacer la caméra vers le bas*.
+Dézoomer et zoomer avec la roulette de la souris.
+Touche → pour accélérer le scénario.
+Touche ← pour décélérer le scénario.
+*Dans la limite de la taille de la carte
 
  
  
